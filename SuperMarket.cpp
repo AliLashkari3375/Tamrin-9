@@ -1,5 +1,5 @@
 // SuperMarket.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Ali lashkari
 #include<iostream>
 #include<windows.h>
 #include<conio.h>
@@ -419,3 +419,4 @@ menu:
     }
     return 0;
 }
+//Ali lashkari
